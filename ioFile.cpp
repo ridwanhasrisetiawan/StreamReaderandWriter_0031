@@ -8,4 +8,7 @@ using namespace std;
 
 int mian() {
     string baris;
+
+
+    ofstream outfile;
 }
