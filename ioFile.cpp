@@ -19,5 +19,7 @@ int mian() {
 
     while (true) {
         cout << "- ";
+
+        getline(cin, baris);
     }
 }
