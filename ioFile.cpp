@@ -23,5 +23,7 @@ int mian() {
         getline(cin, baris);
 
         if (baris == "q") break;
+
+        outfile << baris << endl;
     }
 }
