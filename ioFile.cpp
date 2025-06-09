@@ -21,5 +21,7 @@ int mian() {
         cout << "- ";
 
         getline(cin, baris);
+
+        if (baris == "q") break;
     }
 }
