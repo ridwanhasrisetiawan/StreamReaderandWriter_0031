@@ -26,4 +26,6 @@ int mian() {
 
         outfile << baris << endl;
     }
+
+    outfile.close();
 }
