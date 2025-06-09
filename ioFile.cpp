@@ -42,5 +42,7 @@ int mian() {
         {
             cout << baris << '\n';
         }
+
+        infile.close();
     }
 }
